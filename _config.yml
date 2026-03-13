@@ -1,1 +1,4 @@
-
+title: Hybrid Intelligence 4 Healthcare
+description: Workshop at HHAI 2026
+remote_theme: pages-themes/cayman@v0.2.0
+plugins: - jekyll-remote-theme
