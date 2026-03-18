@@ -13,7 +13,7 @@ The workshop will contain a combination of a keynote, lightning talks and an int
 Details of the program will follow.
 
 ## Submissions
-
+We invite people to submit short papers of 2 pages that contain HI applications in health care settings.
 
 
 ## Organizing Team
