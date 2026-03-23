@@ -1,20 +1,38 @@
 # Hybrid Intelligence for Healthcare
 
-This full-day workshop is an initiative of the HI-TNO collaboration and aims to build an interdisciplinary research community for people who are interested in developing hybrid intelligence (HI) systems for health care and well-being. As technology, particularly intelligent systems, becomes more integrated into people’s daily life, AI-based systems designed to facilitate lifestyle change or behavior change for health and well-being become more common as well. However, there is still a long process going from research that develops such support systems to deploying such systems in people’s everyday life. 
+This **full-day workshop** is an initiative of the HI-TNO collaboration and aims to build an interdisciplinary research community for people who are interested in developing hybrid intelligence (HI) systems for health care and well-being. The workshop will contain a combination of a keynote, lightning talks and an interactive session to work out common building blocks for various health care applications, using a design pattern approach. We aim to provide a space for sufficient communication and discussion, to **build further on an interdisciplinary community for HI for health care**. Additionally, we have as goal to jointly write a paper after the workshop with the participants.
+
+
+## Background
+
+As technology, particularly intelligent systems, becomes more integrated into people’s daily life, AI-based systems designed to facilitate lifestyle change or behavior change for health and well-being become more common as well. However, there is still a long process going from research that develops such support systems to deploying such systems in people’s everyday life. 
 
 In particular, the challenges associated with the development and deployment of AI-based support systems call for a shift toward a human-centered design approach in which humans and AI co-evolve over time through mutual adaptation and continuous improvement. This approach can be addressed by HI. Specifically, human capabilities are augmented by their complementary AI capabilities, thus achieving improved results overall. To achieve a better understanding of how HI systems can support health care and well-being and to explore the key challenges for HI systems for health care, this workshop will focus on addressing why we need HI and how HI differs from just AI-based systems for health care. 
 
 Developing HI systems for health and well-being is an interdisciplinary research effort by nature. This requires people from various related fields such as computer science, human-computer interaction, psychology, medicine, etc., to exchange their perspectives and collaborate. Therefore, in this workshop, we also want to focus on community building, interdisciplinary exchange, and discussion among participants. 
 
-## Program at a Glance
-
-The workshop will contain a combination of a keynote, lightning talks and an interactive session to work out common building blocks for various health care applications, using a design pattern approach. We aim to provide a space for sufficient communication and discussion, to build further on an interdisciplinary community for HI for health care.
-
-Details of the program will follow.
+## Tentative Schedule
+| Time | Activity 
+| ----------- | ----------- |
+9:00 - 9:15 |  Welcome
+9:15-10:00 | Keynote
+10:00-10:15 | Break (*depending on the HHAI program)
+10:15-12:00 |Lightning Talks 
+12:00 - 13:00 | Lunch 
+13:00-13:15  | Introduction of Design Patterns
+13:15-15:45 | Creation of Design Patterns (in groups)
+15:45 – 16:00 | Break (*depending on the HHAI program)
+16:00 - 16:45 |Plenary session to show the design patterns and  discuss common patterns
+16:45-17:00 | Closure
 
 ## Submissions
-We invite people to submit short papers of 2 pages that contain HI applications in health care settings.
+We invite people to submit short papers of 2 pages that contain HI applications in health care settings. The papers can be added to the postproceedings (optional).
+Please follow the [Frontiers of AI series by IOS Press](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) format. The submission format is single-blind. The link to the EasyChair submission page will follow.
 
+### Important Dates
+ * May 1, 2026: Workshop deadline for contributions
+ * May 29, 2026: Paper acceptance notification
+ * July 7, 2026: Workshop
 
 ## Organizing Team
 ### Maaike de Boer
@@ -31,3 +49,6 @@ Annette ten Teije is full professor of Artificial Intelligence in Medicine at th
 
 ## Program Committee
 - Thomas Schmid, Medizinische Fakultät, Martin Luther University Halle-Wittenberg, Germany
+- More members will follow...
+
+For more information: please email us using hi4healthcare@gmail.com.
