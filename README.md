@@ -2,8 +2,8 @@
 
 This **full-day workshop** is an initiative of the HI-TNO collaboration and aims to build an interdisciplinary research community for people who are interested in developing hybrid intelligence (HI) systems for health care and well-being. The workshop will contain a combination of a keynote, lightning talks and an interactive session to work out common building blocks for various health care applications, **using a design pattern approach**. During the workshop, we will work on different design patterns that we may encounter when working on HI systems in healthcare settings. We aim to provide a space for sufficient communication and discussion, to **build further on an interdisciplinary community for HI for health care and define commonly used design patterns that can be used in future research**. Additionally, we have as goal to jointly write a paper after the workshop with the participants.
 
-The workshop setup will be based on two different prior workshops, namely Hybrid Intelligence for healthcare (HHAI 2024, <a href="https://ii.tudelft.nl/HI4HealthCare/web/"></a>) and 
-Human-Centered Design of Symbiotic Hybrid Intelligence (HHAI 2022, <a href="https://ii.tudelft.nl/humancenteredsymbioticHI/"></a>). 
+The workshop setup will be based on two different prior workshops, namely Hybrid Intelligence for healthcare (HHAI 2024, <a href="https://ii.tudelft.nl/HI4HealthCare/web/">workshop website</a>) and 
+Human-Centered Design of Symbiotic Hybrid Intelligence (HHAI 2022, <a href="https://ii.tudelft.nl/humancenteredsymbioticHI/">workshop website</a>). 
 See also the output from those workshops: 
 [1] Dudzik, B. J., van der Waa, J. S., Chen, P. Y., Dobbe, R., de Troya, Í. M., Bakker, R. M., ... & Kamphorst, B. A. (2024). Hybrid intelligence supports application development for diabetes lifestyle management. Journal of Artificial Intelligence Research, 80, 919-929.
 [2] Van Zoelen, E., Mioch, T., Tajaddini, M., Fleiner, C., Tsaneva, S., Camin, P., ... & Neerincx, M. A. (2023). Developing team design patterns for hybrid intelligence systems. In HHAI 2023: Augmenting Human Intellect (pp. 3-16). IOS Press.
