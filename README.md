@@ -30,8 +30,8 @@ We invite people to submit a two-page, single space, single column extended abst
 Please follow the [Frontiers of AI series by IOS Press](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) format. The submission format is single-blind. The link to the EasyChair submission page will follow.
 
 ### Important Dates
- * May 1, 2026: Workshop deadline for contributions
- * May 29, 2026: Paper acceptance notification
+ * May 15, 2026: Workshop deadline for contributions
+ * June 5, 2026: Paper acceptance notification
  * July 7, 2026: Workshop
 
 ## Organizing Team
