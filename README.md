@@ -4,8 +4,11 @@ This **full-day workshop** is an initiative of the HI-TNO collaboration and aims
 
 The workshop setup will be based on two different prior workshops, namely Hybrid Intelligence for healthcare (HHAI 2024, <a href="https://ii.tudelft.nl/HI4HealthCare/web/">workshop website</a>) and 
 Human-Centered Design of Symbiotic Hybrid Intelligence (HHAI 2022, <a href="https://ii.tudelft.nl/humancenteredsymbioticHI/">workshop website</a>). 
+
 See also the output from those workshops: 
+
 [1] Dudzik, B. J., van der Waa, J. S., Chen, P. Y., Dobbe, R., de Troya, Í. M., Bakker, R. M., ... & Kamphorst, B. A. (2024). Hybrid intelligence supports application development for diabetes lifestyle management. Journal of Artificial Intelligence Research, 80, 919-929.
+
 [2] Van Zoelen, E., Mioch, T., Tajaddini, M., Fleiner, C., Tsaneva, S., Camin, P., ... & Neerincx, M. A. (2023). Developing team design patterns for hybrid intelligence systems. In HHAI 2023: Augmenting Human Intellect (pp. 3-16). IOS Press.
 
 
