@@ -26,7 +26,7 @@ Developing HI systems for health and well-being is an interdisciplinary research
 16:45-17:00 | Closure
 
 ## Submissions
-We invite people to submit short papers of 2 pages that contain HI applications in health care settings. The papers can be added to the postproceedings (optional).
+We invite people to submit a two-page, single space, single column extended abstract that describes your application or envisioned system on HI in health care. We do not require the submissions to be current work in progress: the goal of the submission is for us to have potential HI systems in health care to create the design patterns with. The papers can be added to the postproceedings (optional).
 Please follow the [Frontiers of AI series by IOS Press](https://www.iospress.com/catalog/book-series/frontiers-in-artificial-intelligence-and-applications) format. The submission format is single-blind. The link to the EasyChair submission page will follow.
 
 ### Important Dates
