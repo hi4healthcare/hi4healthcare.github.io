@@ -36,19 +36,19 @@ Please follow the [Frontiers of AI series by IOS Press](https://www.iospress.com
 
 ## Organizing Team
 ### Maaike de Boer
-<img src="{{site.url}}/images/maaike.jpg" style="display: block; margin: auto; height: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
-Maaike de Boer (PhD) is a senior Scientist at TNO within the Data Science department. At TNO Maaike focuses on Hybrid AI – specifically combining language models and knowledge graphs / ontologies. She is part of the transfer lab between TNO and the Dutch Hybrid Intelligence program, and (co-)leads the case study on the Health Care domain.<br /><br />
+<img src="{{site.url}}/images/maaike.jpg" style="display: block; margin: auto; width: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
+Maaike de Boer (PhD) is a senior Scientist at TNO within the Data Science department. At TNO Maaike focuses on Hybrid AI – specifically combining language models and knowledge graphs / ontologies. She is part of the transfer lab between TNO and the Dutch Hybrid Intelligence program, and (co-)leads the case study on the Health Care domain.<br /><br /><br />
 
 ### Emma van Zoelen
-<img src="{{site.url}}/images/emma.jpg" style="display: block; margin: auto; height: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
+<img src="{{site.url}}/images/emma.jpg" style="display: block; margin: auto; width: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
 Emma van Zoelen is a scientist at the TNO Human-Machine Teaming department. She recently finished her PhD on human-machine co-learning, in which she studied collaboration patterns that emerge as a result of human and machine adaptivity. At TNO, she researches human-machine interactions and collaborations as well as topics related to responsible AI. She is part of the transfer lab between TNO and the Dutch Hybrid Intelligence program, and (co-)leads the case study on the Health Care domain.
 
 ### Mark Neerincx
-<img src="{{site.url}}/images/mark.jpg" style="display: block; margin: auto; height: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
+<img src="{{site.url}}/images/mark.jpg" style="display: block; margin: auto; width: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
 Mark Neerincx is full professor in Human-Centered Computing at the Delft University of Technology, and principal scientist at TNO Human-Machine Teaming. His research focuses on the socio-cognitive engineering of human–agent/robot collaboration across domains such as healthcare, security, and defense, with the aim of enhancing social, cognitive, affective, and physical processes and enabling meaningful human–agent partnerships. This work emphasizes sustained, memory-based agent support for meaningful activities and moral decision-making, fostering reflective processes, value awareness, and adaptive human–agent collaboration over time.
 
 ### Annette ten Teije
-<img src="{{site.url}}/images/annette.jpg" style="display: block; margin: auto; height: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
+<img src="{{site.url}}/images/annette.jpg" style="display: block; margin: auto; width: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
 Annette ten Teije is full professor of Artificial Intelligence in Medicine at the Vrije Universiteit Amsterdam (Learning&Reasoning group), and she specializes in decision systems within the medical field. Her research encompasses various medical domains, including medical guidelines, quality indicators, and clinical studies. Ten Teije’s primary focus lies in the application of knowledge-driven methods and their integration with data-driven approaches. She is particularly interested in formalizing architecture patterns for systems that combine learning and reasoning, as well as developing a theory to determine the appropriate use of these patterns.
 
 ## Program Committee
