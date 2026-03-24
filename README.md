@@ -37,7 +37,7 @@ Please follow the [Frontiers of AI series by IOS Press](https://www.iospress.com
 ## Organizing Team
 ### Maaike de Boer
 <img src="{{site.url}}/images/maaike.jpg" style="display: block; margin: auto; height: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
-Maaike de Boer (PhD) is a senior Scientist at TNO within the Data Science department. At TNO Maaike focuses on Hybrid AI – specifically combining language models and knowledge graphs / ontologies. She is part of the transfer lab between TNO and the Dutch Hybrid Intelligence program, and (co-)leads the case study on the Health Care domain.
+Maaike de Boer (PhD) is a senior Scientist at TNO within the Data Science department. At TNO Maaike focuses on Hybrid AI – specifically combining language models and knowledge graphs / ontologies. She is part of the transfer lab between TNO and the Dutch Hybrid Intelligence program, and (co-)leads the case study on the Health Care domain.__
 
 ### Emma van Zoelen
 <img src="{{site.url}}/images/emma.jpg" style="display: block; margin: auto; height: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
