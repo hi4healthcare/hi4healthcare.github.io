@@ -64,6 +64,7 @@ Annette ten Teije is full professor of Artificial Intelligence in Medicine at th
 
 ## Program Committee
 - Thomas Schmid, Medizinische Fakultät, Martin Luther University Halle-Wittenberg, Germany
+- Tina Mioch, Hogeschool Utrecht and TU Delft, the Netherlands
 - More members will follow...
 
 For more information: please email us using hi4healthcare@gmail.com.
