@@ -2,6 +2,26 @@
 
 The workshop will be held on July 7th, in room I.1.03 (see <a href="https://hhai-conference.org/2026/workshops/">the HHAI2026 website</a> for more information).
 
+## Schedule
+
+| Time | Activity 
+| ----------- | ----------- |
+9:00-9:15 |  Introduction
+9:15-10:30 | **Keynote** by Judith Masthoff: Adapting AI to People in Context: Human-Centred Hybrid Intelligence for Healthcare
+10:30-11:00|  _Break_ 
+11:00-12:00 |**Lightning Talks** by accepted papers: 
+11:00 - 11:15 | Christian Fleiner and Robbe Claeys. The Ishikawa Diagram as an Enabler for Hybrid Intelligence in Healthcare
+11:15 - 11:30 | Abdallah Al-Janabi and Michel Klein. Hybrid Causal Discovery Using Human- and LLM-Based Domain Expertise
+11:30 - 11:45 | Floris den Hengst, Shihan Wang, Piek Vossen, Quirine Smit, Maaike H. T. de Boer, Bram Willemsen and Ilke Asal. Towards a Hybrid Diabetes Lifestyle Support Agent with a Long-Term Memory
+11:45 - 12:00 | Tommaso Zendron. AI as a Mediator of Information: a Consent-Aware Team Design Pattern for Appropriate Trust in Healthcare
+12:00-12:15  | Introduction of Design Patterns
+12:15-13:00 | Creation of Design Patterns Part 1  (in groups)
+13:00-14:00 | _Lunch_ 
+14:00-16:00 | Creation of Design Patterns Part 2 (in groups)
+16:00-16:30 |  _Break_
+16:30-17:00 | Plenary session to show the design patterns and discuss common patterns
+17:00-17:30 | Closure and Next Steps
+
 This **full-day workshop** is an initiative of the HI-TNO collaboration and aims to build an interdisciplinary research community for people who are interested in developing hybrid intelligence (HI) systems for health care and well-being. The workshop will contain a combination of a keynote, lightning talks and an interactive session to work out common building blocks for various health care applications, **using a design pattern approach**. During the workshop, we will work on different design patterns that we may encounter when working on HI systems in healthcare settings. We aim to provide a space for sufficient communication and discussion, to **build further on an interdisciplinary community for HI for health care and define commonly used design patterns that can be used in future research**. Additionally, we have as goal to jointly write a paper after the workshop with the participants.
 
 The workshop setup will be based on two different prior workshops, namely Hybrid Intelligence for healthcare (HHAI 2024, <a href="https://ii.tudelft.nl/HI4HealthCare/web/">workshop website</a>) and 
@@ -13,7 +33,6 @@ See also the output from those workshops:
 
 [2] Van Zoelen, E., Mioch, T., Tajaddini, M., Fleiner, C., Tsaneva, S., Camin, P., ... & Neerincx, M. A. (2023). Developing team design patterns for hybrid intelligence systems. In HHAI 2023: Augmenting Human Intellect (pp. 3-16). IOS Press.
 
-
 ## Background
 
 As technology, particularly intelligent systems, becomes more integrated into people’s daily life, AI-based systems designed to facilitate lifestyle change or behavior change for health and well-being become more common as well. However, there is still a long process going from research that develops such support systems to deploying such systems in people’s everyday life. 
@@ -24,25 +43,12 @@ Developing HI systems for health and well-being is an interdisciplinary research
 
 <img src="{{site.url}}/images/2022_06_14_HHAI_workshop_03.jpg" style="display: block; margin: auto; width: 300px; padding: 10px;" />
 
-## Schedule
-
-| Time | Activity 
-| ----------- | ----------- |
-9:00-9:15 |  Introduction
-9:15-10:30 | Keynote by Judith Masthoff
-10:30-11:00|  Break 
-11:00-12:00 | Lightning Talks by accepted papers
-12:00-12:15  | Introduction of Design Patterns
-12:15-13:00 | Creation of Design Patterns Part 1  (in groups)
-13:00-14:00 | Lunch 
-14:00-16:00 | Creation of Design Patterns Part 2 (in groups)
-16:00-16:30 |  Break
-16:30-17:00 | Plenary session to show the design patterns and discuss common patterns
-17:00-17:30 | Closure and Next Steps
-
 ## Keynote by Judith Masthoff
 <img src="{{site.url}}/images/judith_masthoff.jfif" style="display: block; margin: auto; width: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
 Judith Masthoff is a full professor in the Human-Centered Computing group at Utrecht University. She researches intelligent user interfaces, specializing in personalization, persuasive technology, and adaptive systems for domains including e‑health, sustainable transport, and education. Her work on group adaptation and personalized e‑learning covers topics such as adaptive tutoring, feedback, exercise selection, and emotional support. Her projects cover topics such as diabetes walking coaches, study motivation, sustainable mobility, elder social interaction, and cancer self‑monitoring. She is part of the AI4Health consortium, which recently received long-term funding for research on making AI useful for care professionals and patients.
+
+**Abstract of the keynote:**  As AI becomes increasingly integrated into healthcare, the challenge is not only to develop intelligent systems, but to ensure they fit the needs and practices of the people who use them, while adapting to their preferences, circumstances, and goals. Achieving this requires a thorough understanding of the diverse stakeholders involved, their needs, goals, and preferences, and the contexts in which these systems are used.
+Drawing on examples from healthcare and other domains, this keynote will illustrate how insights into users and context can inform the design of hybrid intelligence systems, including the personalization of AI support to individual users and situations. It will also discuss how factors such as trust, transparency, control, and human biases influence the acceptance, use, and effectiveness of human-AI collaboration. Finally, it will briefly reflect on some of the key human-centred AI challenges that will be addressed in the forthcoming AI4Health programme.
 
 ## Accepted Papers
 - Christian Fleiner and Robbe Claeys. The Ishikawa Diagram as an Enabler for Hybrid Intelligence in Healthcare
