@@ -1,5 +1,7 @@
 # Hybrid Intelligence for Healthcare
 
+The workshop will be held on July 7th, in room I.1.03 (see <a href="https://hhai-conference.org/2026/workshops/">the HHAI2026 website</a> for more information).
+
 This **full-day workshop** is an initiative of the HI-TNO collaboration and aims to build an interdisciplinary research community for people who are interested in developing hybrid intelligence (HI) systems for health care and well-being. The workshop will contain a combination of a keynote, lightning talks and an interactive session to work out common building blocks for various health care applications, **using a design pattern approach**. During the workshop, we will work on different design patterns that we may encounter when working on HI systems in healthcare settings. We aim to provide a space for sufficient communication and discussion, to **build further on an interdisciplinary community for HI for health care and define commonly used design patterns that can be used in future research**. Additionally, we have as goal to jointly write a paper after the workshop with the participants.
 
 The workshop setup will be based on two different prior workshops, namely Hybrid Intelligence for healthcare (HHAI 2024, <a href="https://ii.tudelft.nl/HI4HealthCare/web/">workshop website</a>) and 
@@ -22,19 +24,21 @@ Developing HI systems for health and well-being is an interdisciplinary research
 
 <img src="{{site.url}}/images/2022_06_14_HHAI_workshop_03.jpg" style="display: block; margin: auto; width: 300px; padding: 10px;" />
 
-## Tentative Schedule
+## Schedule
+
 | Time | Activity 
 | ----------- | ----------- |
 9:00 - 9:15 |  Welcome
-9:15-10:00 | Keynote by Judith Masthoff
-10:00-10:15 | Break (*depending on the HHAI program)
-10:15-12:00 |Lightning Talks 
-12:00 - 13:00 | Lunch 
-13:00-13:15  | Introduction of Design Patterns
-13:15-15:45 | Creation of Design Patterns (in groups)
-15:45 – 16:00 | Break (*depending on the HHAI program)
-16:00 - 16:45 |Plenary session to show the design patterns and  discuss common patterns
-16:45-17:00 | Closure
+9:15-10:30 | Keynote by Judith Masthoff
+10:30-11:00|  Break 
+11:00-12:00 |Lightning Talks 
+12:00-12:30  | Introduction of Design Patterns
+12:30-13:00 | Creation of Design Patterns (in groups)
+13:00-14:00 | Lunch 
+14:00-16:00 | Creation of Design Patterns Part 2 (in groups)
+16:00-16:30 |  Break
+16:30 - 16:45 |Plenary session to show the design patterns and discuss common patterns
+17:00-17:30 | Closure and Next Steps
 
 ## Keynote by Judith Masthoff
 <img src="{{site.url}}/images/judith_masthoff.jfif" style="display: block; margin: auto; width: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
