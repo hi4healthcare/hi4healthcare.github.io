@@ -28,21 +28,29 @@ Developing HI systems for health and well-being is an interdisciplinary research
 
 | Time | Activity 
 | ----------- | ----------- |
-9:00 - 9:15 |  Welcome
+9:00-9:15 |  Introduction
 9:15-10:30 | Keynote by Judith Masthoff
 10:30-11:00|  Break 
-11:00-12:00 |Lightning Talks 
-12:00-12:30  | Introduction of Design Patterns
-12:30-13:00 | Creation of Design Patterns (in groups)
+11:00-12:00 | Lightning Talks by accepted papers
+12:00-12:15  | Introduction of Design Patterns
+12:15-13:00 | Creation of Design Patterns Part 1  (in groups)
 13:00-14:00 | Lunch 
 14:00-16:00 | Creation of Design Patterns Part 2 (in groups)
 16:00-16:30 |  Break
-16:30 - 16:45 |Plenary session to show the design patterns and discuss common patterns
+16:30-17:00 | Plenary session to show the design patterns and discuss common patterns
 17:00-17:30 | Closure and Next Steps
 
 ## Keynote by Judith Masthoff
 <img src="{{site.url}}/images/judith_masthoff.jfif" style="display: block; margin: auto; width: 220px; float: left; padding-bottom: 10px; padding-right: 10px;" />
 Judith Masthoff is a full professor in the Human-Centered Computing group at Utrecht University. She researches intelligent user interfaces, specializing in personalization, persuasive technology, and adaptive systems for domains including e‑health, sustainable transport, and education. Her work on group adaptation and personalized e‑learning covers topics such as adaptive tutoring, feedback, exercise selection, and emotional support. Her projects cover topics such as diabetes walking coaches, study motivation, sustainable mobility, elder social interaction, and cancer self‑monitoring. She is part of the AI4Health consortium, which recently received long-term funding for research on making AI useful for care professionals and patients.
+
+## Accepted Papers
+- Christian Fleiner and Robbe Claeys. The Ishikawa Diagram as an Enabler for Hybrid Intelligence in Healthcare
+- Abdallah Al-Janabi and Michel Klein. Hybrid Causal Discovery Using Human- and LLM-Based Domain Expertise
+- Floris den Hengst, Shihan Wang, Piek Vossen, Quirine Smit, Maaike H. T. de Boer, Bram Willemsen and Ilke Asal. Towards a Hybrid Diabetes Lifestyle Support Agent with a Long-Term Memory
+- Tommaso Zendron. AI as a Mediator of Information: a Consent-Aware Team Design Pattern for Appropriate Trust in Healthcare
+
+Authors of these papers will present their work in the lightning talks in de morning session. These papers will be used in the session after to create design patterns.
 
 ## Submissions
 We invite people to submit a two-page, single space, single column extended abstract that describes your application or envisioned system on HI in health care. We do not require the submissions to be current work in progress: the goal of the submission is for us to have potential HI systems in health care to create the design patterns with. The papers can be added to the postproceedings (optional).
