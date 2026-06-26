@@ -13,7 +13,7 @@ The workshop will be held on July 7th, in room I.1.03 (see <a href="https://hhai
 11:00 - 11:15 | Christian Fleiner and Robbe Claeys. The Ishikawa Diagram as an Enabler for Hybrid Intelligence in Healthcare
 11:15 - 11:30 | Abdallah Al-Janabi and Michel Klein. Hybrid Causal Discovery Using Human- and LLM-Based Domain Expertise
 11:30 - 11:45 | Floris den Hengst, Shihan Wang, Piek Vossen, Quirine Smit, Maaike H. T. de Boer, Bram Willemsen and Ilke Asal. Towards a Hybrid Diabetes Lifestyle Support Agent with a Long-Term Memory
-11:45 - 12:00 | Tommaso Zendron. AI as a Mediator of Information: a Consent-Aware Team Design Pattern for Appropriate Trust in Healthcare
+11:45 - 12:00 | Tommaso Zendron, Josephine Mélot Chesnel, Berke Yazan and Emma M. van Zoelen. AI as a Mediator of Information: a Consent-Aware Team Design Pattern for Appropriate Trust in Healthcare
 12:00-12:15  | Introduction of Design Patterns
 12:15-13:00 | Creation of Design Patterns Part 1  (in groups)
 13:00-14:00 | _Lunch_ 
@@ -54,7 +54,7 @@ Drawing on examples from healthcare and other domains, this keynote will illustr
 - Christian Fleiner and Robbe Claeys. The Ishikawa Diagram as an Enabler for Hybrid Intelligence in Healthcare
 - Abdallah Al-Janabi and Michel Klein. Hybrid Causal Discovery Using Human- and LLM-Based Domain Expertise
 - Floris den Hengst, Shihan Wang, Piek Vossen, Quirine Smit, Maaike H. T. de Boer, Bram Willemsen and Ilke Asal. Towards a Hybrid Diabetes Lifestyle Support Agent with a Long-Term Memory
-- Tommaso Zendron. AI as a Mediator of Information: a Consent-Aware Team Design Pattern for Appropriate Trust in Healthcare
+- Tommaso Zendron, Josephine Mélot Chesnel, Berke Yazan and Emma M. van Zoelen. AI as a Mediator of Information: a Consent-Aware Team Design Pattern for Appropriate Trust in Healthcare
 
 Authors of these papers will present their work in the lightning talks in de morning session. These papers will be used in the session after to create design patterns.
 
